@@ -2,5 +2,6 @@
 
 $func = function($name){
     return strtoupper($name);
-    echo $func ("test");
 };
+
+//echo $func("test");
